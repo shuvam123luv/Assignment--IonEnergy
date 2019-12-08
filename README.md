@@ -2,7 +2,7 @@
 
 
 
-The code is wriiten to find the correlation between variables of BMS intalled in Telcom. The technique used is 
+The code is wriiten to find the correlation between variables of BMS installed in Telecom Tower. The techniques used are:- 
 1)Spearman's Rank correlation
 2)Pearson correlation 
 
